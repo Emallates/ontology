@@ -1,7 +1,7 @@
 {
   "name": "ontology",
   "version": "0.0.1",
-  "description": "",
+  "description": "Build any kind of ontology(hierarchy)",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -9,6 +9,18 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
-  "license": "MIT"
+  "author": "emallates",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emallates/ontology.git"
+  },
+  "keywords": [
+    "ontology",
+    "hierarchy"
+  ],
+  "bugs": {
+    "url": "https://github.com/Emallates/ontology/issues"
+  },
+  "homepage": "https://github.com/Emallates/ontology#readme"
 }
